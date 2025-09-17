@@ -9,7 +9,7 @@ dfs(v):
     for each unvisited neighbor w:
         dfs(w)
     mark v as closed
-
+```
 **D1**: v1->v2->v3->v1  
 **D2**: v4->v5->v4  
 **D3**: ....
